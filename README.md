@@ -1,3 +1,7 @@
+这是一个测试项目，为了学习和编写next框架而存在
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
